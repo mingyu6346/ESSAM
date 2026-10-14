@@ -27,7 +27,7 @@ python test.py --data_root /path/to/dataset --ckpt runs/model/best_model.pth \
 
 The released prediction maps are available on Baidu Netdisk:
 
-| Datasets                        | Download link                                                        |
+| Methods                        | Download link                                                        |
 | ------------------------------ | -------------------------------------------------------------------- | 
 | `15 methods`                   | [Download](https://pan.baidu.com/s/15U2IipY5A81k-t6ENsB-kQ?pwd=gvee) | 
 | `15 methods with regular/hard` | [Download](https://pan.baidu.com/s/1A1pRosbq4mOySuuYesuKuQ?pwd=u5f1) | 
